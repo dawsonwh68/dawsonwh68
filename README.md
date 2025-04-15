@@ -11,11 +11,12 @@ I am an aspring cyber security analyst who just finised the gooogle cyber securi
 
 I started as a construction worker for the last 7 years, but have now wanted to transition out into an IT feild.  I found out about cyber security by my mom telling me about it then looking more into it and the different types of careers that are in this indusutry.  The more I looked into this field I found out about the Google cyber security certifacte, which prepared you for a enrty level job in this industry.  Was a six month course, I am eager to learn more about cyber security.
 
-# Skills
+# Activities completed in google cyber certifaction course
 
-| Skills                                       | Associated Project|
-|----------------------------------------------|-------------------|
-|Company security audit/Revieing controls      |
+| Activities completed                                      | Associated Project|
+|-----------------------------------------------------------|-------------------|
+|Company security audit/Revieing controls                   |  ![Static Badge](https://img.shields.io/badge/audit--black?link=C%3A%5CUsers%5Cdawso%5CDownloads%5CSecurity%20audit-20250415T183944Z-001.zip)|
+|Analyze network layer communication                        |
 
 
 
