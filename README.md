@@ -18,7 +18,9 @@ I started as a construction worker for the last 7 years, but have now wanted to 
 |Company security audit/Revieing controls                   |[Audit PDF - Controls and Compliance Checklist](https://github.com/dawsonwh68/audit-pdf/blob/main/_Controls-and-compliance-checklist%20(1).pdf)
 |Analyze network layer communication                        |[Incident Report - Network Traffic Analysis PDF](https://github.com/dawsonwh68/Incident-report-network-traffic-/blob/main/3%20-incident-report-network-traffic-analysis%202%20(1).pdf)
 |wireshark vs tcpdump compare an contrast                   |[Wireshark vs TCP Dump PDF](https://github.com/dawsonwh68/tcpdum-vs-wire-shark/blob/main/wireshark%20vs%20tcp%20dump%20(1)%20pdf.pdf)|
-|access control                                             |[Access Control Worksheet PDF](https://github.com/dawsonwh68/access-control-activity/blob/main/Access-control-worksheet-.pdf)
+|access control                                             |[Access Control Worksheet PDF](https://github.com/dawsonwh68/access-control-activity/blob/main/Access-control-worksheet-.pdf)|
+|alert ticket                                               |[Esculated Alert-ticket.pdf](https://github.com/dawsonwh68/dawsonwh68/blob/main/Esculated%20Alert-ticket.pdf)|
+|Incident handlers journal                                  |
 
 
 
