@@ -15,7 +15,7 @@ I started as a construction worker for the last 7 years, but have now wanted to 
 
 | Activities completed                                      | Associated Project|
 |-----------------------------------------------------------|-------------------|
-|Company security audit/Revieing controls                   |[![Static Badge](https://img.shields.io/badge/audit--black)](file:///C:/Users/dawso/Downloads/_Controls-and-compliance-checklist%20(1).pdf)
+|Company security audit/Revieing controls                   |[![Static Badge](https://img.shields.io/badge/audit--black)](https://github.com/username/repository-name/blob/main/path/to/your/file.pdf)
 |Analyze network layer communication                        |[![Static Badge](https://img.shields.io/badge/network%20traffic%20incident%20report--black)](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2Fdawsonwh68%2Fdawsonwh68%2Frefs%2Fheads%2Fmain%2F-incident-report-network-traffic-analysis.docx&wdOrigin=BROWSELINK)
 
 
