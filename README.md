@@ -20,7 +20,7 @@ I have been a construction worker for the last 7 years, but have now wanted to t
 |wireshark vs tcpdump compare an contrast                   |[Wireshark vs TCP Dump PDF](https://github.com/dawsonwh68/tcpdum-vs-wire-shark/blob/main/wireshark%20vs%20tcp%20dump%20(1)%20pdf.pdf)|
 |access control                                             |[Access Control Worksheet PDF](https://github.com/dawsonwh68/access-control-activity/blob/main/Access-control-worksheet-.pdf)|
 |alert ticket                                               |[Esculated Alert-ticket.pdf](https://github.com/dawsonwh68/dawsonwh68/blob/main/Esculated%20Alert-ticket.pdf)|
-|Permissions in linux                                       |
+|Permissions in linux                                       |[File permissions in Linux.pdf](https://github.com/dawsonwh68/dawsonwh68/blob/main/File%20permissions%20in%20Linux%20.pdf)|
 |Incident handlers journal                                  |
 
 
