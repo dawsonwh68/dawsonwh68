@@ -9,7 +9,7 @@ I am an aspring cyber security analyst who just finised the gooogle cyber securi
 
 # Objectives
 
-I started as a construction worker for the last 7 years, but have now wanted to transition out into an IT feild.  I found out about cyber security by my mom telling me about it then looking more into it and the different types of careers that are in this indusutry.  The more I looked into this field I found out about the Google cyber security certifacte, which prepared you for a enrty level job in this industry.  Was a six month course, I am eager to learn more about cyber security.
+I have been a construction worker for the last 7 years, but have now wanted to transition out into an IT feild.  I found out about cyber security by my mom telling me about it then looking more into it and the different types of careers that are in this indusutry.  The more I looked into this field I found out about the Google cyber security certifacte, which prepared me for a enrty level job in this industry.  Was a six month course, I am eager to learn more about cyber security.
 
 # Activities completed in google cyber certifaction course
 
